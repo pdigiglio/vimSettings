@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/nfs/mnemosyne/user/pdigiglio/private'
+let g:netrw_dirhist_2='/nfs/mnemosyne/user/pdigiglio/private/.gnupg'
+let g:netrw_dirhist_3='/nfs/mnemosyne/user/pdigiglio/private'
+let g:netrw_dirhist_4='/nfs/mnemosyne/user/pdigiglio/private/CBDA'
+let g:netrw_dirhist_5='/nfs/mnemosyne/user/pdigiglio/private/CBDA/sheet_04'
